@@ -8,7 +8,6 @@ Docker Hub fiókod alá, mint "homework:latest" (kép:tag).
 
 ---
 
-```md
+
 [![Build and Push Docker image](https://github.com/rideg1337/github_homework/actions/workflows/docker-build.yml/badge.svg)](https://github.com/rideg1337/github_homework/actions/workflows/docker-build.yml)
 ![Docker](https://img.shields.io/badge/docker-ready-blue)
-```
