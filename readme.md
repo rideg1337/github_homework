@@ -1,6 +1,17 @@
+# Github Homework
+
 [![Build and Push Docker image](https://github.com/rideg1337/github_homework/actions/workflows/docker-build.yml/badge.svg)](https://github.com/rideg1337/github_homework/actions/workflows/docker-build.yml)
 ![Docker](https://img.shields.io/badge/docker-ready-blue)
-# Github Homework
+
+
+##### Tartalomjegyzek
+* [A feladat](#a-feladat)
+* [Dockerfile](#dockerfile)
+* [index.html](#indexhtml)
+* [Github Workflows](#github-workflows)
+    * [Mi tortenik itt valojaban?](#mi-tortenik-itt-valojaban)
+* [Hogy futtasd a containert?](#hogy-futtasd-a-containert)
+* [Ellenorzes](#ellenorzes)
 
 ##### A Feladat:
 
@@ -11,7 +22,7 @@ Docker Hub fiókod alá, mint "homework:latest" (kép:tag).
 ---
 
 
-##### dockerfile:
+##### Dockerfile:
 
 ```dockerfile
 FROM nginx:alpine
