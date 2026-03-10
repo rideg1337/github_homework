@@ -1,7 +1,7 @@
 # Github Homework
 
 [![Build and Push Docker image](https://github.com/rideg1337/github_homework/actions/workflows/docker-build.yml/badge.svg)](https://github.com/rideg1337/github_homework/actions/workflows/docker-build.yml)
-![Docker](https://img.shields.io/badge/docker-ready-blue)
+[![Docker Hub](https://img.shields.io/badge/docker-repo-blue?logo=docker&logoColor=white)](https://hub.docker.com/r/rideg1337/devops-homework)
 
 
 ##### Tartalomjegyzek
